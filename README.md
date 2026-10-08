@@ -1,4 +1,4 @@
-Ray (ray-project/ray) contributor. Authored a merged upstream fix to the GCS (Ray's control plane) that prevents a restart crash-loop when an actor is missing its task spec under GCS fault tolerance.
+Ray contributor. A fix I wrote for a restart crash that left a whole cluster down was merged into Ray's main codebase.
 → https://github.com/ray-project/ray/pull/66073
 → Write-up: https://gist.github.com/nataliekung/1cc47266a712b8fa1742bcde1ee9b9bc
 
