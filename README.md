@@ -3,3 +3,5 @@ Ray contributor. A fix I wrote for a restart crash that left a whole cluster dow
 → Write-up: https://gist.github.com/nataliekung/1cc47266a712b8fa1742bcde1ee9b9bc
 
 Inference runtime sandbox (paged KV accounting, continuous batching, benchmarks): https://github.com/nataliekung/inference-runtime-lab
+
+Engineering notes (measured results on inference runtimes, GPU sharing, and the upstream Ray, KubeRay and verl work behind them): https://github.com/nataliekung/engineering-notes
